@@ -9,9 +9,6 @@ import org.bukkit.inventory.Inventory;
 import java.util.Map;
 import java.util.UUID;
 
-/**
- * Created by maxine on 6/08/14.
- */
 public class RequestHandler {
     public static HashBiMap<UUID, UUID> requests = HashBiMap.create();
 
