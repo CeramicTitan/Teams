@@ -1,0 +1,8 @@
+name: EWarps
+main: me.ceramictitan.teams.TeamsPlugin
+version: 1.0.0.0
+description: >
+             Custom plugin for GhostDzn
+commands:
+    teams:
+      description: "Base command for warps"
